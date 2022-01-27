@@ -7,8 +7,7 @@ header {
 
  /* main全体調整 */
  #wrapper {
-    width: 984px;
-    height: 440px;
+    width: 1000px;
     display: flex;
     justify-content: flex-start;
 }
