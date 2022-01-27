@@ -1,0 +1,28 @@
+@charset "UTF-8";
+/* header調整 */
+header {
+     width: 1000px;
+     background-color:#ffcccc;
+}
+
+ /* main全体調整 */
+ #wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+ #main{
+    width: 700px;
+    background-color:#ccffcc;
+}
+
+/* menu調整 */
+#menu{
+    width:300px;
+    background-color:#ccccff
+}
+
+/* footer調整 */
+footer {
+    width: 1000px;
+     background-color:#ffccff;
+}
